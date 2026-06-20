@@ -1,4 +1,4 @@
-# Pasión en secreto
+# Pasión en secreto, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Pasión en secreto |
+| **Title** | Pasión en secreto, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-en-secreto/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Pasión en secreto](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-secreto/) |
+| **Get License** | [Get License For Pasión en secreto, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-en-secreto/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche es nuestra, apaga el celular
+> Tus ojos me confiesan lo que quieres ocultar
+> Sube al coche, que en la calle vamos a volar
+> Un secreto a voces que no podemos negar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0dd900ad24627d731e1505881bba505a6111708ed1834119afc0477b014d1132` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

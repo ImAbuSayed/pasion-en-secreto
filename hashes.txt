@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión en secreto, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Pasión en secreto, Vol. 2** (pasion-en-secreto-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T21:30:05.392532 | `v1` | `0dd900ad24627d731e1505881bba505a6111708ed1834119afc0477b014d1132` | `fda9962a2fd771f266fd58de8127172a6d59e80701abca317d8afb5a6bc95404` | `2026-06-20_pasion-en-secreto-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

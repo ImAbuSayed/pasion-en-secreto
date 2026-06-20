@@ -1,6 +1,6 @@
 # License
 
-**Pasión en secreto**
+**Pasión en secreto, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
